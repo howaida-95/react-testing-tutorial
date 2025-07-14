@@ -1,0 +1,23 @@
+## TTD (test driven development)
+test before code 
+1- tests
+2- code
+3- refactor 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
